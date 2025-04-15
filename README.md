@@ -1,1 +1,1 @@
-# Installasi-Laragon-dan-laravel
+# Installasi Laragon dan laravel
